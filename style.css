@@ -1,0 +1,87 @@
+.mainpage {
+    background-color: #2a9d8f;
+}
+
+.mainpage h1 {
+    text-align: center;
+    font-family: copperplate, fantasy;
+}
+
+.mainpage li {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.pulled_chicken_sloppy_joes {
+    background-color: #264653;
+}
+
+.pulled_chicken_sloppy_joes h1 {
+    text-align: center;
+    font-family: copperplate, fantasy;
+}
+
+.pulled_chicken_sloppy_joes img {
+    height: auto;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pulled_chicken_sloppy_joes h2 {
+    text-align: center;
+}
+
+.pulled_chicken_sloppy_joes a {
+    color: #e9c46a;
+}
+
+.hotdog_rollups {
+    background-color: #264653;
+}
+
+.hotdog_rollups h1 {
+    text-align: center;
+    font-family: copperplate, fantasy;
+}
+
+.hotdog_rollups img {
+    height: auto;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hotdog_rollups h2 {
+    text-align: center;
+}
+
+.hotdog_rollups a {
+    color: #e9c46a;
+}
+
+.hotdog_rollups {
+    background-color: #264653;
+}
+
+.hotdog_rollups h1 {
+    text-align: center;
+    font-family: copperplate, fantasy;
+}
+
+.hotdog_rollups img {
+    height: auto;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hotdog_rollups h2 {
+    text-align: center;
+}
+
+.hotdog_rollups a {
+    color: #e9c46a;
+}
